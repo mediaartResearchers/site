@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on mediaartResearchers</title>
+    <link>https://yue1124.github.io/hero/posts/</link>
+    <description>Recent content in Posts on mediaartResearchers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 14 Mar 2023 20:10:11 +0900</lastBuildDate><atom:link href="https://yue1124.github.io/hero/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zimi</title>
+      <link>https://yue1124.github.io/hero/posts/zimi/</link>
+      <pubDate>Tue, 14 Mar 2023 20:10:11 +0900</pubDate>
+      
+      <guid>https://yue1124.github.io/hero/posts/zimi/</guid>
+      <description>3/31日からグループ展を行います。</description>
+    </item>
+    
+  </channel>
+</rss>
