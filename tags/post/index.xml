@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Media Art Researchers</title>
-    <link>https://lgaida.github.io/mediumish-gohugo-theme-demo/</link>
-    <description>Recent content on Media Art Researchers</description>
+    <title>post on Media Art Researchers</title>
+    <link>https://lgaida.github.io/mediumish-gohugo-theme-demo/tags/post/</link>
+    <description>Recent content in post on Media Art Researchers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>John Doe - All rights reserved</copyright>
-    <lastBuildDate>Wed, 22 Mar 2023 04:45:34 +0900</lastBuildDate><atom:link href="https://lgaida.github.io/mediumish-gohugo-theme-demo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Mar 2023 04:45:34 +0900</lastBuildDate><atom:link href="https://lgaida.github.io/mediumish-gohugo-theme-demo/tags/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>地味展　コンセプト文</title>
       <link>https://lgaida.github.io/mediumish-gohugo-theme-demo/blog/my-first-post/</link>
