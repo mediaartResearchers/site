@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Media Art Researchers</title>
-    <link>https://mediaartresearchers.github.io/site/blog/</link>
-    <description>Recent content in Blogs on Media Art Researchers</description>
+    <title>exhibition on Media Art Researchers</title>
+    <link>https://mediaartresearchers.github.io/site/tags/exhibition/</link>
+    <description>Recent content in exhibition on Media Art Researchers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>John Doe - All rights reserved</copyright>
-    <lastBuildDate>Thu, 29 Jun 2023 18:22:16 +0900</lastBuildDate><atom:link href="https://mediaartresearchers.github.io/site/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 18:22:16 +0900</lastBuildDate><atom:link href="https://mediaartresearchers.github.io/site/tags/exhibition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>地味展　トークイベント</title>
       <link>https://mediaartresearchers.github.io/site/blog/talk01/</link>
